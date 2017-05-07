@@ -1,5 +1,6 @@
 # Quora duplicate questions
-The repository contains the code to submit for the Kaggle competition to identify duplicate questions using machine learning.
+The repository contains the code to submit for the Kaggle competition to identify duplicate questions using machine learning:
+https://www.kaggle.com/c/quora-question-pairs
 
 The workflow we apply is the following:
 
